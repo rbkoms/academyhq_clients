@@ -1,0 +1,13 @@
+{
+    "name": "rabin/academyhq_client",
+    "description": "composer",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "rabin karmacharya",
+            "email": "rabin.karmachraya@olivemedia.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
